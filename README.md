@@ -12,7 +12,7 @@
 
 with one sourcecode, powered by Tauri!
 
-This is a simple setup to get started with React and Tauri in Javascrip. If you fancy Typescript, there will be one available soon at [ReacTaur_ReactTS-Tauri-Boilerplate](https://github.com/MPMcIntyre/ReacTaur_ReactTS-Tauri-Boilerplate).
+This is a simple setup to get started with React and Tauri in Javascrip. If you fancy Typescript, you can find ReacTaur for Typescript at [ReacTaur_ReactTS-Tauri-Boilerplate](https://github.com/MPMcIntyre/ReacTaur_ReactTS-Tauri-Boilerplate).
 
 The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), thus if you are familiar with most React apps, you should have a foothold.
 
@@ -60,12 +60,12 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 This does NOT include Tauri!
 
-### `yarn package"`
+### `yarn package`
 
 (React and Tauri) Runs the React build command then builds the Tauri app with the contents found in the './build/' folder.\
 This produces the 'target' folder in './src-tauri/', which contains both the executable an installer.
 
-### `yarn package:tauri"`
+### `yarn package:tauri`
 
 (Tauri) Builds the Tauri app with the contents found in the './build/' folder.\
 This produces the 'target' folder in './src-tauri/', which contains both the executable an installer.
