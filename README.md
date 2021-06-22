@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/MPMcIntyre/ReacTaurLogo/blob/main/ReacTaur.png?raw=true" width="55%">
-<div />
+</div>
   
 # Introduction
 
