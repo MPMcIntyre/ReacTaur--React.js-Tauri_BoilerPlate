@@ -1,9 +1,9 @@
 # Introduction
 
-Create desktop apps for: 
-[x] Windows 
-[x] MacOS 
-[x] Linux
+##Create desktop apps for: 
+- [x] ###Windows 
+- [x] ###MacOS 
+- [x] ###Linux
 
 with one sourcecode, powered by Tauri!
 
@@ -13,7 +13,11 @@ The project was bootstrapped with [Create React App](https://github.com/facebook
 
 # Getting Started
 
-Ensure that you have visited [Tauri's](https://tauri.studio/en/docs/getting-started/intro) website and installed the following: -[x] System Dependencies -[x] Node.js Runtime and Package Manager -[x] Rustc and Cargo Package Manager -[x] WebView2 (Windows) or WSL Version 1 & 2 (Linux)
+Ensure that you have visited [Tauri's](https://tauri.studio/en/docs/getting-started/intro) website and installed the following: 
+- [x] System Dependencies 
+- [x] Node.js Runtime and Package Manager 
+- [x] Rustc and Cargo Package Manager 
+- [x] WebView2 (Windows) or WSL Version 1 & 2 (Linux)
 
 If you have met all the dependancies for your operating system, and have successfully cloned the Git repo, run "yarn install"/"npm install" to install dependancies.
 
