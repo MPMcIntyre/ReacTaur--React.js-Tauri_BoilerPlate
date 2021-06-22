@@ -15,7 +15,8 @@ function App() {
           More info{" "}
           <a
             href="https://github.com/MPMcIntyre/ReacTaur--React.js-Tauri_BoilerPlate"
-            target="_blank">
+            target="_blank"
+            rel="noreferrer">
             here{" "}
           </a>
         </span>
