@@ -12,7 +12,7 @@
 
 with one sourcecode, powered by Tauri!
 
-This is a simple setup to get started with React and Tauri in Javascrip. If you fancy Typescript, you can find ReacTaur for Typescript at [ReacTaur_ReactTS-Tauri-Boilerplate](https://github.com/MPMcIntyre/ReacTaur_ReactTS-Tauri-Boilerplate).
+This is a simple setup to get started with React and Tauri in Javascrip. If you fancy Typescript, you can find ReacTaur for Typescript at [ReacTaur_TS](https://github.com/MPMcIntyre/ReacTaur_TS).
 
 The project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), thus if you are familiar with most React apps, you should have a foothold.
 
