@@ -52,7 +52,7 @@ Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
 ### `yarn start:tauri`
 
-(Tauri) Runs Tauri in development mode on [http://localhost:3001](http://localhost:3001).\
+(Tauri) Runs Tauri in development mode on [http://localhost:3001](http://localhost:3001).
 
 ### `yarn build`
 
