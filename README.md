@@ -19,7 +19,7 @@ Ensure that you have visited [Tauri's](https://tauri.studio/en/docs/getting-star
 - [x] Rustc and Cargo Package Manager 
 - [x] WebView2 (Windows) or WSL Version 1 & 2 (Linux)
 
-If you have met all the dependancies for your operating system and have successfully cloned the Git repo, cd into the directory and run "yarn install"/"npm install" to install dependancies.
+If you have met all the dependancies for your operating system and have successfully cloned the Git repo, cd into the directory and run "yarn install" or "npm install" to install dependancies.
 
 ## Available Scripts
 
