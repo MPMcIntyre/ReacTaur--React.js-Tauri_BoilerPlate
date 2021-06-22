@@ -1,4 +1,6 @@
-<img src="https://github.com/MPMcIntyre/ReacTaurLogo/blob/main/ReacTaur.png?raw=true" width="55%" style="margin:auto;">
+<div align="center">
+<img src="https://github.com/MPMcIntyre/ReacTaurLogo/blob/main/ReacTaur.png?raw=true" width="55%">
+<div/>
 # Introduction
 
 ## Create desktop apps for:
