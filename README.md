@@ -1,8 +1,9 @@
 # Introduction
 
-## Create desktop apps for: 
-- [x] Windows 
-- [x] MacOS 
+## Create desktop apps for:
+
+- [x] Windows
+- [x] MacOS
 - [x] Linux
 
 with one sourcecode, powered by Tauri!
@@ -13,10 +14,11 @@ The project was bootstrapped with [Create React App](https://github.com/facebook
 
 # Getting Started
 
-Ensure that you have visited [Tauri's](https://tauri.studio/en/docs/getting-started/intro) website and installed the following: 
-- [x] System Dependencies 
-- [x] Node.js Runtime and Package Manager 
-- [x] Rustc and Cargo Package Manager 
+Ensure that you have visited [Tauri's](https://tauri.studio/en/docs/getting-started/intro) website and installed the following:
+
+- [x] System Dependencies
+- [x] Node.js Runtime and Package Manager
+- [x] Rustc and Cargo Package Manager
 - [x] WebView2 (Windows) or WSL Version 1 & 2 (Linux)
 
 If you have met all the dependancies for your operating system and have successfully cloned the Git repo, cd into the directory and run "yarn install" or "npm install" to install dependancies.
@@ -56,8 +58,18 @@ This does NOT include Tauri!
 
 ### `yarn package"`
 
+(React and Tauri) Runs the React build command then builds the Tauri app with the contents found in the './build/' folder.\
+This produces the 'target' folder in './src-tauri/', which contains both the executable an installer.
+
+### `yarn package:tauri"`
+
 (Tauri) Builds the Tauri app with the contents found in the './build/' folder.\
 This produces the 'target' folder in './src-tauri/', which contains both the executable an installer.
+
+### `yarn tauri`
+
+(Tauri) Interfaces with the Tauri CLI (@tauri-apps/cli package).\
+See the [CLI](https://tauri.studio/en/docs/api/config#tauri) section for more information.
 
 ### `yarn test`
 

@@ -17,7 +17,8 @@
     "start:server": "set PORT=3001 && react-scripts start",
     "start:tauri": "yarn tauri dev",
     "build": "react-scripts build",
-    "package": "yarn tauri build",
+    "package": "yarn build && yarn tauri build",
+    "package:tauri": "yarn tauri build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "tauri": "tauri"
